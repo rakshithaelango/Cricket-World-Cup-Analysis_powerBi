@@ -30,4 +30,3 @@
      * Second clean the bowlers data
      * Third  clean the ODI match result data
 * Dashboard creation
-* 
