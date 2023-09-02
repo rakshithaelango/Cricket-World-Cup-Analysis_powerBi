@@ -29,4 +29,8 @@
      * First  clean the batmans data
      * Second clean the bowlers data
      * Third  clean the ODI match result data
-* Dashboard creation
+* Dashboard creation.
+
+## DASHBOARD VISUAL:
+
+![1693649949206 (1)](https://github.com/rakshithaelango/Cricket-World-Cup-Analysis_powerBi/assets/116090323/d4189bcb-0d0c-465d-94eb-5689ca7b0be8)   
